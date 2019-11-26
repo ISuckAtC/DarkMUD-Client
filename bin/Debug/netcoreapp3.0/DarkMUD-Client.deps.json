@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DarkMUD-Client/1.0.0": {
+        "runtime": {
+          "DarkMUD-Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DarkMUD-Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
